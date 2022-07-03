@@ -1,0 +1,41 @@
+body {
+    background-color:white;
+}
+
+#contenedor {
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 3px 5px 8px gray;
+}
+
+#arriba {
+    padding: 20px;
+}
+
+
+ul {
+    width: 100%;
+    margin-top: 3rem;
+}
+
+li {
+    border: 1px solid rgb(214, 214, 214);
+    list-style: none;
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 0.2rem;
+    background-color: white;
+    font-size: 1rem;
+    
+}
+
+.oculto {
+    display: none;
+}
+
+.mostrar {
+    box-shadow: 2px 2px 8px gray;
+    color: blue;
+    font-weight: 600;
+    border-color: blue;
+}
